@@ -2,7 +2,7 @@
 """
 Created on Thu Jun  9 10:50:24 2016
 
-@author: gmrd43
+@author: ian jacobsen
 """
 
 # -*- coding: utf-8 -*-
