@@ -1,16 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  9 10:50:24 2016
-
+'''
 @author: ian jacobsen
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
+'''
 
 import numpy as np
 import matplotlib.pyplot as plt
